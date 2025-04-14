@@ -1,0 +1,32 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and model files
+*.pkl
+*.so
+*.npz
+*.stat
+
+# Output directories
+output/
+build/
+dist/
+data/
+*.egg-info/
+
+# Documentation and visual files
+*.pdf
+*.png
+*.html
+*.out
+*.log
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+.idea
+.env
